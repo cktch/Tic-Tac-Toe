@@ -1,8 +1,10 @@
 # Tic-Tac-Toe
 
-Tic-tac-toe game using Python. 
+-- Raymond.Ginting@gmail.com --
 
-Display follow a 3x3 grid system.
+I present the classic game of 'X' and 'O' vs. Computer or AI (Artificial Intelligence), who take turns marking the spaces in a 3×3 grid.
+
+This simple Tic-tac-toe game made using Python.
 
 Player can input “1”, ”2”, ”3”, etc to mark their decision.
 
@@ -12,4 +14,4 @@ Starting the game turns randomly between player and AI.
 
 I include the design and description of the algorithm using flowchart to show the flow of the program in the pdf.
 
--- Raymond.Ginting@gmail.com --
+Want to test or play it live? Let's go: https://repl.it/@RaymondGinting/TicTacToe-Phython3
