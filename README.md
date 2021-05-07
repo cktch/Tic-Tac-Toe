@@ -1,7 +1,5 @@
 # Tic-Tac-Toe
 
--- Raymond.Ginting@gmail.com --
-
 I present the classic game of 'X' and 'O' vs. Computer or AI (Artificial Intelligence), who take turns marking the spaces in a 3×3 grid.
 
 This simple Tic-tac-toe game made using Python.
