@@ -12,4 +12,4 @@ Starting the game turns randomly between player and AI.
 
 I include the design and description of the algorithm using flowchart to show the flow of the program in the pdf.
 
-Want to test or play it live? Let's go: https://repl.it/@RaymondGinting/TicTacToe-Phython3
+Want to test or play it live? Let's go: https://bit.ly/34jrhFb
